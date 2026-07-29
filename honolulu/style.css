@@ -92,12 +92,3 @@ footer{
 .container{
     padding:30px;
 }
-
-.history-img {
-    width: 200px;
-    max-width: 50%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-    border-radius: 10px;
-}
